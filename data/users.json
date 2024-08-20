@@ -1,0 +1,17 @@
+[
+  {
+    "name": "admin",
+    "password": "1234",
+    "age": "16",
+    "height": "170",
+    "weight": "70"
+  },
+  {
+    "name": "yousef",
+    "password": "123456",
+    "age": "17",
+    "height": "170",
+    "weight": "60",
+    "bmr": 1582
+  }
+]
